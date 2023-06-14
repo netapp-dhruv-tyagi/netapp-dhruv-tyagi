@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Technical Marketing Engineer @ NetApp<br>👯 Work on automation around Hybrid Multi-Cloud Solutions
+🔭 Technical Marketing Engineer @ NetApp<br>🧑🏻‍💻 Work on automation around Hybrid Multi-Cloud Solutions
 
 
 ## 🌐 Socials:
